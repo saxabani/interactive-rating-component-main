@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer utilities {
+    .cl-lg {
+        color: hsl(217, 12%, 63%);
+    }
+    .bgcl-db {
+        background-color: hsl(213, 19%, 18%);
+    }
+    
+    .bgcl-vdb {
+        background-color: hsl(216, 12%, 8%);
+    }
+    .ppp {
+        background-color: #FB7413;
+    }
+}
